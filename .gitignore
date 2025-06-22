@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+
+# Build files
+/dist
+
+# Env files
+.env
+
+# History files
+/history
